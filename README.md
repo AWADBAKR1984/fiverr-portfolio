@@ -5,6 +5,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-FF0055?style=flat-square&logo=framer&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-fluxly.awadbakr1984.workers.dev-6366F1?style=flat-square&logo=cloudflare&logoColor=white)](https://fluxly.awadbakr1984.workers.dev)
 
 A premium, world-class SaaS landing page built as a portfolio project — inspired by the design language of Stripe, Linear, and Vercel. Features deep glassmorphism, animated UI, a realistic dashboard mockup, and a fully responsive layout.
 
