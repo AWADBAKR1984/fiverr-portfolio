@@ -51,7 +51,7 @@ A premium, world-class SaaS landing page built as a portfolio project — inspir
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/fluxly-landing.git
+git clone https://github.com/AWADBAKR1984/fiverr-portfolio
 cd fluxly-landing
 
 # 2. Install dependencies
@@ -127,8 +127,8 @@ fluxly-landing/
 **Awad Bakr** — Frontend Developer
 
 - Portfolio: [awadbakr.dev](https://awadbakr.dev)
-- Fiverr: [fiverr.com/your-username](https://fiverr.com/your-username) <!-- replace with your Fiverr link -->
-- GitHub: [@awadbakr](https://github.com/awadbakr)
+- Fiverr: [fiverr.com/awadbakrdev](https://fiverr.com/awadbakrdev)
+- GitHub: [@AWADBAKR1984](https://github.com/AWADBAKR1984)
 
 ---
 
